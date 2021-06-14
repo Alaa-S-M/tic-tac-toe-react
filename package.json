@@ -9,7 +9,7 @@
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "^1.1.5"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -17,7 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -36,5 +36,16 @@
   },
   "devDependencies": {
     "gh-pages": "^2.2.0"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alaa-S-M/tic-tac-toe-react.git"
+  },
+  "author": " <Alaa-S-M>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alaa-S-M/tic-tac-toe-react/issues"
   }
 }
